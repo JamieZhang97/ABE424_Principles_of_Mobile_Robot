@@ -1,2 +1,2 @@
 # ABE424_Principles_of_Mobile_Robot
-This course use ROS and Gazebo to practive GPS navigation, image processing, Kalman Filter and SLAM.
+This course use ROS and Gazebo to practice GPS navigation, image processing, Kalman Filter and SLAM.
